@@ -1,7 +1,11 @@
-hi this is my file 
+<<<<<<< Updated upstream
+hi this is my file
 
 my v2 code
 x=2
 y=54
 
+hi this is my file
 
+hi hhis v3 :wq
+x=25
